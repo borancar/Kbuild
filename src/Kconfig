@@ -1,0 +1,18 @@
+menu Test
+
+config TEST1
+	bool "Module test1"
+	help
+		Say yes to build test1
+
+config TEST2
+	bool "Module test2"
+	help
+		Say yes to build test2
+
+config TEST3
+	bool "Module test3"
+	help
+		Say yes to build test3
+
+endmenu
